@@ -103,5 +103,5 @@ export function getStoreFromInstance<T = any>() {
 	if (!vm) {
 		throw new Error('You must use this function within the "setup()" method, or insert the store as first argument.')
 	}
-	return (vm.proxy as any)?.$store as Store<T>;
+	return (vm.proxy as any).$store as Store<T>;
 }

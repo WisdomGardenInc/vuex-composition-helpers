@@ -2,7 +2,7 @@
   "name": "vuex-composition-helpers",
   "version": "2.0.2",
   "description": "Helpers to use Vuex store form Vue Composition API",
-  "author": "David Meir-Levy <davidmeirlevy@gmail.com>",
+  "author": "wisdomgarden",
   "license": "MIT",
   "keywords": [
     "vue",
@@ -20,12 +20,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/greenpress/vuex-composition-helpers.git"
+    "url": "git+https://github.com/WisdomGardenInc/vuex-composition-helpers.git"
   },
   "bugs": {
-    "url": "https://github.com/greenpress/vuex-composition-helpers/issues"
+    "url": "https://github.com/WisdomGardenInc/vuex-composition-helpers/issues"
   },
-  "homepage": "https://github.com/greenpress/vuex-composition-helpers#readme",
+  "homepage": "https://github.com/WisdomGardenInc/vuex-composition-helpers#readme",
   "peerDependencies": {
     "vue": ">= 3.0.5",
     "vuex": ">= 4.0.0"
