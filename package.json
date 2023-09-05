@@ -1,6 +1,6 @@
 {
   "name": "@wisdomgarden/vuex-composition-helpers",
-  "version": "1.0.1",
+  "version": "2.0.2-1",
   "description": "Helpers to use Vuex store form Vue Composition API",
   "author": "wisdomgarden",
   "license": "MIT",
